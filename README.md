@@ -17,5 +17,7 @@ This game runs on normal ComputerCraft, optionally with speakers for sound effec
 
 ## Media
 ![2024-10-06_14 21 28](https://github.com/user-attachments/assets/347f064d-ce78-4e02-b2dd-9ea06c41ddb9)
-![2024-10-06_14 29 28](https://github.com/user-attachments/assets/845e4c15-2efe-4e24-bb5a-cff5cb9df7a5)
+![2024-10-16_14 14 48](https://github.com/user-attachments/assets/e930ebb3-331d-4c6d-8610-c25f348949bb)
 ![2024-10-06_13 41 01](https://github.com/user-attachments/assets/31bc5fe1-003a-4a3a-a398-c9f558ff8c95)
+![2024-10-16_14 16 12](https://github.com/user-attachments/assets/994d4f3b-5151-47fe-b4b1-6586f1305185)
+![2024-10-16_14 04 10](https://github.com/user-attachments/assets/3e18fc42-ab17-4991-9aff-d41385d15c55)
